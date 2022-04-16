@@ -207,9 +207,9 @@ http://192.168.5.1:4022/udp/233.50.201.191:5140
 http://192.168.5.1:4022/udp/233.50.201.74:5140
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="上海文广",欢笑剧场
 http://192.168.5.1:4022/udp/233.50.201.189:5140
-#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="上海文广",极速汽车
+#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海文广",极速汽车
 http://192.168.5.1:4022/udp/233.50.201.208:5140
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海文广",七彩戏剧
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海文广",七彩戏剧
 http://192.168.5.1:4022/udp/233.50.200.75:5140
 #EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="上海文广",全纪实
 http://192.168.5.1:4022/udp/233.50.201.185:5140
