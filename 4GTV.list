@@ -1,10 +1,10 @@
 # > 4GTV
-- DOMAIN-SUFFIX,app-measurement.com
-- DOMAIN-SUFFIX,ftv.com.tw
-- DOMAIN-SUFFIX,4gtv.tv
-- DOMAIN,4gtvimg.4gtv.tv
-- DOMAIN,airmsg-api.4gtv.tv
-- DOMAIN,4gtvfree-mozai.4gtv.tv
-- DOMAIN-SUFFIX,hinet.net
-- DOMAIN-KEYWORD,4gtv
-- DOMAIN,airmsg.4gtv.tv
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN,4gtvimg.4gtv.tv
+DOMAIN,airmsg-api.4gtv.tv
+DOMAIN,4gtvfree-mozai.4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-KEYWORD,4gtv
+DOMAIN,airmsg.4gtv.tv
