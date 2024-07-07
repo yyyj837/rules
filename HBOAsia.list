@@ -24,5 +24,6 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
-DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-KEYWORD,.hbogoasia.
+DOMAIN-KEYWORD,.litix.io
