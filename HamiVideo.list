@@ -7,8 +7,8 @@
 DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,favoritescc-hamivideo2.cdn.hinet.net
-DOMAIN-SUFFIX,tlmr-hamivideo2.cdn.hinet.net
+DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
+DOMAIN,tlmr-hamivideo2.cdn.hinet.net
 DOMAIN-SUFFIX,scc.ott.hinet.net
 DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
